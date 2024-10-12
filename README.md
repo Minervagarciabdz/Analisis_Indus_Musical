@@ -6,8 +6,6 @@ ha estado trabajando en recopilar datos sobre la industria musical con la finali
 de plataformas entre otros datos que le ayuden a entender mejor para lograr una campaña publicitaria digital optima. 
 
 ## Objetivo
-
-Objetivo:
 Identificar cuales son los gustos musicales y en qué plataformas se visualizan más para poder realizar diferentes anuncios publicitarios
 y garantizar que serán vistos los cuales fomentan las ventas de los productos del cliente que pidió tal campaña (Marketing Digital).
 
@@ -23,3 +21,22 @@ Se definiaron algunas preguntas clave para ayudar a la comprensión de los datos
 - ¿Cuáles son los artistas que ha aparecido mayor numero de veces en el ranking?
 - De acuardo a la puntuación de popuparidad de las canciones, ¿Qué artistas estan mejor califacdos?
 - ¿Cantidad de canciones que incluyen contennido Explito vs las que no?
+
+## Resultados 
+Como resultado del análisis se comprobó que la platamorma más popular es TickTock, seguida en 2do lugar por Spotify y en 3er lugar You Tube,
+lo que se aprecia en el siguiente grafico:
+
+![Captura de pantalla 2024-10-12 082010](https://github.com/user-attachments/assets/7c5379f9-0b68-4163-a9d4-6f336905eedb)
+
+En cuanto a la popularidad de los Artistas se tienen ligeras diferencias entre los que más se repiten en el ranking y los mejor calificados.
+En la Primera imagen se muestran en orden descendente los artistas mejor calificados, y el grafico posterior los artistas que más se repiten en el ranking
+
+![Captura de pantalla 2024-10-12 092635](https://github.com/user-attachments/assets/ce852a0b-cc58-4802-87a9-0a1c3ac4425d)
+
+
+![Captura de pantalla 2024-10-12 090057](https://github.com/user-attachments/assets/a4157cbb-b6ac-4a3f-8ab4-9d68aba78736)
+
+Y Finalmente encontramos que un 41% de las canciones tiene contenido explícito contra un 59% que no lo incluye:
+
+![Captura de pantalla 2024-10-12 092500](https://github.com/user-attachments/assets/7ff5ef31-db17-4287-9495-fbec7c5b469e)
+
