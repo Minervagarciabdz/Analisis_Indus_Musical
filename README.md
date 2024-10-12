@@ -22,7 +22,7 @@ Se definiaron algunas preguntas clave para ayudar a la comprensión de los datos
 - De acuardo a la puntuación de popuparidad de las canciones, ¿Qué artistas estan mejor califacdos?
 - ¿Cantidad de canciones que incluyen contennido Explito vs las que no?
 
-## Visualizacion de Dashboard:
+## Visualización de Dashboard:
 https://public.tableau.com/app/profile/juan.felipe.figueroa.rodr.guez/viz/Libro3_17286266414780/LaImportanciadelaMsicaenlaindutriaMusical
 
 ## Resultados 
